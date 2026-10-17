@@ -1,0 +1,6 @@
+{
+  "appId": "dz.bureau.colis",
+  "appName": "رسائل الطرود",
+  "webDir": "www",
+  "android": { "allowMixedContent": false }
+}
