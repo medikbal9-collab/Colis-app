@@ -1,0 +1,12 @@
+{
+  "name": "colis-messages",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": { "prepare-web": "node scripts/copy-xlsx.js" },
+  "dependencies": {
+    "@capacitor/android": "^6.1.2",
+    "@capacitor/cli": "^6.1.2",
+    "@capacitor/core": "^6.1.2",
+    "xlsx": "https://cdn.sheetjs.com/xlsx-0.20.3/xlsx-0.20.3.tgz"
+  }
+}
